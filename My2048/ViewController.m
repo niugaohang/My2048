@@ -188,6 +188,7 @@
     //xinYouXiButton.backgroundColor = [UIColor colorWithRed:235/255.0 green:223/255.0 blue:211/255.0 alpha:1];
     [xinYouXiButton setTitleColor:[UIColor colorWithRed:173/255.0 green:158/255.0 blue:144/255.0 alpha:1] forState:UIControlStateNormal];
     [xinYouXiButton setTitle:@"新游戏" forState:UIControlStateNormal];
+    [xinYouXiButton setBackgroundColor:[UIColor purpleColor]];
     [xinYouXiButton addTarget:self action:@selector(xinYouXiXiangYing) forControlEvents:UIControlEventTouchUpInside];
     [bigView addSubview:xinYouXiButton];
 

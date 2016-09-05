@@ -6,8 +6,9 @@
 	副界面背景颜色：RGB（173，158，144）
 	按钮背景色：RGB（193，179，165）
 	分数和最大分数颜色：RGB（235，223，221）
-2
 
+	2
+![image](https://github.com/niugaohang/My2048/blob/master/My2048/2048/2048%E9%AB%98%E6%B8%85%E6%88%AA%E5%9B%BE1.png)	￼
 
 3
 {

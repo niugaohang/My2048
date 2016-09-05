@@ -15,7 +15,6 @@
 		4F4B64AD1D7D4429005B1BA1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F4B64AB1D7D4429005B1BA1 /* LaunchScreen.storyboard */; };
 		4F4B64B81D7D4429005B1BA1 /* My2048UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F4B64B71D7D4429005B1BA1 /* My2048UITests.m */; };
 		4F4B64C41D7D48FE005B1BA1 /* MyButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F4B64C31D7D48FE005B1BA1 /* MyButton.m */; };
-		4F4B64C81D7D4C57005B1BA1 /* 2048算法.rtfd in Resources */ = {isa = PBXBuildFile; fileRef = 4F4B64C71D7D4C57005B1BA1 /* 2048算法.rtfd */; };
 		4F4B64D71D7D5019005B1BA1 /* 1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F4B64CA1D7D5019005B1BA1 /* 1024.png */; };
 		4F4B64D81D7D5019005B1BA1 /* 128.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F4B64CB1D7D5019005B1BA1 /* 128.png */; };
 		4F4B64D91D7D5019005B1BA1 /* 16.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F4B64CC1D7D5019005B1BA1 /* 16.png */; };
@@ -57,7 +56,6 @@
 		4F4B64B91D7D4429005B1BA1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4F4B64C21D7D48FE005B1BA1 /* MyButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyButton.h; sourceTree = "<group>"; };
 		4F4B64C31D7D48FE005B1BA1 /* MyButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyButton.m; sourceTree = "<group>"; };
-		4F4B64C71D7D4C57005B1BA1 /* 2048算法.rtfd */ = {isa = PBXFileReference; lastKnownFileType = wrapper.rtfd; path = "2048算法.rtfd"; sourceTree = "<group>"; };
 		4F4B64CA1D7D5019005B1BA1 /* 1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1024.png; sourceTree = "<group>"; };
 		4F4B64CB1D7D5019005B1BA1 /* 128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 128.png; sourceTree = "<group>"; };
 		4F4B64CC1D7D5019005B1BA1 /* 16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 16.png; sourceTree = "<group>"; };
@@ -112,7 +110,6 @@
 		4F4B649C1D7D4429005B1BA1 /* My2048 */ = {
 			isa = PBXGroup;
 			children = (
-				4F4B64C71D7D4C57005B1BA1 /* 2048算法.rtfd */,
 				4F4B64A01D7D4429005B1BA1 /* AppDelegate.h */,
 				4F4B64A11D7D4429005B1BA1 /* AppDelegate.m */,
 				4F4B64A31D7D4429005B1BA1 /* ViewController.h */,
@@ -250,7 +247,6 @@
 				4F4B64DB1D7D5019005B1BA1 /* 2048.png in Resources */,
 				4F4B64AD1D7D4429005B1BA1 /* LaunchScreen.storyboard in Resources */,
 				4F4B64E21D7D5019005B1BA1 /* 64.png in Resources */,
-				4F4B64C81D7D4C57005B1BA1 /* 2048算法.rtfd in Resources */,
 				4F4B64DE1D7D5019005B1BA1 /* 256.png in Resources */,
 				4F4B64DC1D7D5019005B1BA1 /* 2048天.png in Resources */,
 				4F4B64E11D7D5019005B1BA1 /* 512.png in Resources */,
@@ -470,6 +466,7 @@
 				4F4B64BE1D7D4429005B1BA1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4F4B64BF1D7D4429005B1BA1 /* Build configuration list for PBXNativeTarget "My2048UITests" */ = {
 			isa = XCConfigurationList;
@@ -478,6 +475,7 @@
 				4F4B64C11D7D4429005B1BA1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

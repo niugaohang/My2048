@@ -14,6 +14,21 @@
 		4F4B64AA1D7D4429005B1BA1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F4B64A91D7D4429005B1BA1 /* Assets.xcassets */; };
 		4F4B64AD1D7D4429005B1BA1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F4B64AB1D7D4429005B1BA1 /* LaunchScreen.storyboard */; };
 		4F4B64B81D7D4429005B1BA1 /* My2048UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F4B64B71D7D4429005B1BA1 /* My2048UITests.m */; };
+		4F4B64C41D7D48FE005B1BA1 /* MyButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F4B64C31D7D48FE005B1BA1 /* MyButton.m */; };
+		4F4B64C81D7D4C57005B1BA1 /* 2048算法.rtfd in Resources */ = {isa = PBXBuildFile; fileRef = 4F4B64C71D7D4C57005B1BA1 /* 2048算法.rtfd */; };
+		4F4B64D71D7D5019005B1BA1 /* 1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F4B64CA1D7D5019005B1BA1 /* 1024.png */; };
+		4F4B64D81D7D5019005B1BA1 /* 128.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F4B64CB1D7D5019005B1BA1 /* 128.png */; };
+		4F4B64D91D7D5019005B1BA1 /* 16.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F4B64CC1D7D5019005B1BA1 /* 16.png */; };
+		4F4B64DA1D7D5019005B1BA1 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F4B64CD1D7D5019005B1BA1 /* 2.png */; };
+		4F4B64DB1D7D5019005B1BA1 /* 2048.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F4B64CE1D7D5019005B1BA1 /* 2048.png */; };
+		4F4B64DC1D7D5019005B1BA1 /* 2048天.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F4B64CF1D7D5019005B1BA1 /* 2048天.png */; };
+		4F4B64DD1D7D5019005B1BA1 /* 2048高清截图1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F4B64D01D7D5019005B1BA1 /* 2048高清截图1.png */; };
+		4F4B64DE1D7D5019005B1BA1 /* 256.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F4B64D11D7D5019005B1BA1 /* 256.png */; };
+		4F4B64DF1D7D5019005B1BA1 /* 32.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F4B64D21D7D5019005B1BA1 /* 32.png */; };
+		4F4B64E01D7D5019005B1BA1 /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F4B64D31D7D5019005B1BA1 /* 4.png */; };
+		4F4B64E11D7D5019005B1BA1 /* 512.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F4B64D41D7D5019005B1BA1 /* 512.png */; };
+		4F4B64E21D7D5019005B1BA1 /* 64.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F4B64D51D7D5019005B1BA1 /* 64.png */; };
+		4F4B64E31D7D5019005B1BA1 /* 8.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F4B64D61D7D5019005B1BA1 /* 8.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +55,22 @@
 		4F4B64B31D7D4429005B1BA1 /* My2048UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = My2048UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F4B64B71D7D4429005B1BA1 /* My2048UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = My2048UITests.m; sourceTree = "<group>"; };
 		4F4B64B91D7D4429005B1BA1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4F4B64C21D7D48FE005B1BA1 /* MyButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyButton.h; sourceTree = "<group>"; };
+		4F4B64C31D7D48FE005B1BA1 /* MyButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyButton.m; sourceTree = "<group>"; };
+		4F4B64C71D7D4C57005B1BA1 /* 2048算法.rtfd */ = {isa = PBXFileReference; lastKnownFileType = wrapper.rtfd; path = "2048算法.rtfd"; sourceTree = "<group>"; };
+		4F4B64CA1D7D5019005B1BA1 /* 1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1024.png; sourceTree = "<group>"; };
+		4F4B64CB1D7D5019005B1BA1 /* 128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 128.png; sourceTree = "<group>"; };
+		4F4B64CC1D7D5019005B1BA1 /* 16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 16.png; sourceTree = "<group>"; };
+		4F4B64CD1D7D5019005B1BA1 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		4F4B64CE1D7D5019005B1BA1 /* 2048.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2048.png; sourceTree = "<group>"; };
+		4F4B64CF1D7D5019005B1BA1 /* 2048天.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "2048天.png"; sourceTree = "<group>"; };
+		4F4B64D01D7D5019005B1BA1 /* 2048高清截图1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "2048高清截图1.png"; sourceTree = "<group>"; };
+		4F4B64D11D7D5019005B1BA1 /* 256.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 256.png; sourceTree = "<group>"; };
+		4F4B64D21D7D5019005B1BA1 /* 32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 32.png; sourceTree = "<group>"; };
+		4F4B64D31D7D5019005B1BA1 /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		4F4B64D41D7D5019005B1BA1 /* 512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 512.png; sourceTree = "<group>"; };
+		4F4B64D51D7D5019005B1BA1 /* 64.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 64.png; sourceTree = "<group>"; };
+		4F4B64D61D7D5019005B1BA1 /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 8.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,14 +112,18 @@
 		4F4B649C1D7D4429005B1BA1 /* My2048 */ = {
 			isa = PBXGroup;
 			children = (
+				4F4B64C71D7D4C57005B1BA1 /* 2048算法.rtfd */,
 				4F4B64A01D7D4429005B1BA1 /* AppDelegate.h */,
 				4F4B64A11D7D4429005B1BA1 /* AppDelegate.m */,
 				4F4B64A31D7D4429005B1BA1 /* ViewController.h */,
 				4F4B64A41D7D4429005B1BA1 /* ViewController.m */,
+				4F4B64C21D7D48FE005B1BA1 /* MyButton.h */,
+				4F4B64C31D7D48FE005B1BA1 /* MyButton.m */,
 				4F4B64A61D7D4429005B1BA1 /* Main.storyboard */,
 				4F4B64A91D7D4429005B1BA1 /* Assets.xcassets */,
 				4F4B64AB1D7D4429005B1BA1 /* LaunchScreen.storyboard */,
 				4F4B64AE1D7D4429005B1BA1 /* Info.plist */,
+				4F4B64C91D7D5019005B1BA1 /* 2048 */,
 				4F4B649D1D7D4429005B1BA1 /* Supporting Files */,
 			);
 			path = My2048;
@@ -109,6 +144,26 @@
 				4F4B64B91D7D4429005B1BA1 /* Info.plist */,
 			);
 			path = My2048UITests;
+			sourceTree = "<group>";
+		};
+		4F4B64C91D7D5019005B1BA1 /* 2048 */ = {
+			isa = PBXGroup;
+			children = (
+				4F4B64CA1D7D5019005B1BA1 /* 1024.png */,
+				4F4B64CB1D7D5019005B1BA1 /* 128.png */,
+				4F4B64CC1D7D5019005B1BA1 /* 16.png */,
+				4F4B64CD1D7D5019005B1BA1 /* 2.png */,
+				4F4B64CE1D7D5019005B1BA1 /* 2048.png */,
+				4F4B64CF1D7D5019005B1BA1 /* 2048天.png */,
+				4F4B64D01D7D5019005B1BA1 /* 2048高清截图1.png */,
+				4F4B64D11D7D5019005B1BA1 /* 256.png */,
+				4F4B64D21D7D5019005B1BA1 /* 32.png */,
+				4F4B64D31D7D5019005B1BA1 /* 4.png */,
+				4F4B64D41D7D5019005B1BA1 /* 512.png */,
+				4F4B64D51D7D5019005B1BA1 /* 64.png */,
+				4F4B64D61D7D5019005B1BA1 /* 8.png */,
+			);
+			path = 2048;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -191,8 +246,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4F4B64DF1D7D5019005B1BA1 /* 32.png in Resources */,
+				4F4B64DB1D7D5019005B1BA1 /* 2048.png in Resources */,
 				4F4B64AD1D7D4429005B1BA1 /* LaunchScreen.storyboard in Resources */,
+				4F4B64E21D7D5019005B1BA1 /* 64.png in Resources */,
+				4F4B64C81D7D4C57005B1BA1 /* 2048算法.rtfd in Resources */,
+				4F4B64DE1D7D5019005B1BA1 /* 256.png in Resources */,
+				4F4B64DC1D7D5019005B1BA1 /* 2048天.png in Resources */,
+				4F4B64E11D7D5019005B1BA1 /* 512.png in Resources */,
+				4F4B64E31D7D5019005B1BA1 /* 8.png in Resources */,
+				4F4B64DA1D7D5019005B1BA1 /* 2.png in Resources */,
+				4F4B64D71D7D5019005B1BA1 /* 1024.png in Resources */,
+				4F4B64E01D7D5019005B1BA1 /* 4.png in Resources */,
+				4F4B64D81D7D5019005B1BA1 /* 128.png in Resources */,
+				4F4B64D91D7D5019005B1BA1 /* 16.png in Resources */,
 				4F4B64AA1D7D4429005B1BA1 /* Assets.xcassets in Resources */,
+				4F4B64DD1D7D5019005B1BA1 /* 2048高清截图1.png in Resources */,
 				4F4B64A81D7D4429005B1BA1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -214,6 +283,7 @@
 				4F4B64A51D7D4429005B1BA1 /* ViewController.m in Sources */,
 				4F4B64A21D7D4429005B1BA1 /* AppDelegate.m in Sources */,
 				4F4B649F1D7D4429005B1BA1 /* main.m in Sources */,
+				4F4B64C41D7D48FE005B1BA1 /* MyButton.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
